@@ -1,0 +1,24 @@
+git status
+
+git add .
+
+git commit -m "mensaje del commit"
+
+git push
+
+
+
+// git push origin master
+
+
+Playground git: https://learngitbranching.js.org/
+
+Infografía 
+
+git branches: https://argentinaprograma.inti.gob.ar/mod/h5pactivity/view.php?id=223
+
+Intalarse
+ 
+VS Code: https://code.visualstudio.com/
+
+Bash SheetsComands: https://www.hostinger.com.ar/tutoriales/linux-comando
