@@ -1,7 +1,7 @@
 git remote -v
-//nos lsita las url con los repositorios de la nube
+//nos lista las url con los repositorios de la nube
 
-Comandos más tipicos siempre antes de hacer un commit nuestro
+Comandos mas tipicos siempre antes de hacer un commit nuestro
 git pull
 git status
 
@@ -18,7 +18,7 @@ git push origin main
 
 // git push origin master
 
-
+ o main
 Playground git: https://learngitbranching.js.org/
 
 Infografía 
