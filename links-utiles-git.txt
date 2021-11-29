@@ -1,3 +1,8 @@
+git remote -v
+//nos lsita las url con los repositorios de la nube
+
+Comandos más tipicos siempre antes de hacer un commit nuestro
+git pull
 git status
 
 git add .
@@ -5,6 +10,9 @@ git add .
 git commit -m "mensaje del commit"
 
 git push
+
+git push origin main
+
 
 
 
